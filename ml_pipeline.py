@@ -19,4 +19,3 @@ else:
     sys.exit(1)
 
 #Test Auto 1
-# Test Auto 2
